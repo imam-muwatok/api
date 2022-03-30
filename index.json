@@ -1,0 +1,20 @@
+{
+	"materials": [
+		{
+			"id": "MAT-001-RES",
+			"name": "Residu"
+		},
+		{
+			"id": "MAT-002-PLS",
+			"name": "Plastik"
+		},
+		{
+			"id": "MAT-003-UBC",
+			"name": "UBC"
+		},
+		{
+			"id": "MAT-004-LOG",
+			"name": "Logam"
+		}
+	]
+}
